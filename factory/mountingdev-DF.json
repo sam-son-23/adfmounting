@@ -1,0 +1,15 @@
+{
+	"name": "mountingdev-DF",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2d2f96b3-377c-4f98-97f0-d6b63dac65c4",
+		"tenantId": "e24ac094-efd8-4a6b-98d5-a129b32a8c9a"
+	}
+}
